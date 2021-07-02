@@ -1,0 +1,4 @@
+resolver: lts-17.15
+extra-deps:
+  - git: https://github.com/juhp/simple-cmd-args.git
+    commit: 0f015739e366468d43c0c8cf238b0ee322bee16d

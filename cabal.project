@@ -1,0 +1,6 @@
+packages: .
+
+source-repository-package
+    type: git
+    location: https://github.com/juhp/simple-cmd-args.git
+    tag: 0f015739e366468d43c0c8cf238b0ee322bee16d
