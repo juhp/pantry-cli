@@ -1,0 +1,4 @@
+[versions]
+newest = lts-18
+# old pantry: missing parseSnapName and snapshotLocation
+oldest = lts-17

@@ -3,12 +3,12 @@
 ## Usage
 
 ```
-$ pantry-cli ghc lts-18.0
+$ pantry-cli compiler lts-18.0
 ghc-8.10.4
-$ pantry-cli list lts-17.15 | wc -l
-2644
-$ pantry-cli pkg lts-16.31 base
-pantry-0.4.0.2
+$ pantry-cli list lts | wc -l
+2726
+$ pantry-cli pkg lts-17 pantry
+pantry-0.5.2.2
 ```
 
 ## Installation
