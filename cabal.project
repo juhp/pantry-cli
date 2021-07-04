@@ -4,3 +4,8 @@ source-repository-package
     type: git
     location: https://github.com/juhp/simple-cmd-args.git
     tag: 0f015739e366468d43c0c8cf238b0ee322bee16d
+
+source-repository-package
+    type: git
+    location: https://github.com/juhp/cached-json-file.git
+    tag: 993d81c3fd1588c9bbc90483e6ce8ccda33fb4ef
